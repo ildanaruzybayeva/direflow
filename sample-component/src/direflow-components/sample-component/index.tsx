@@ -15,5 +15,11 @@ export default DireflowComponent.create({
         },
       },
     },
+    {
+       name: 'tunstall-ui'
+    },
+    {
+       name: 'material-ui'
+    },
   ],
 });
